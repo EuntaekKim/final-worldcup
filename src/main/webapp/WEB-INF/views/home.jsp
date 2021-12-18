@@ -32,12 +32,11 @@ color: #646464;
 	<h1>이상형 월드컵</h1>
 
 	<div id="container">
-	
-		<a href="/choicelist">강아지 월드컵</a>
-		<a href="/choicelist2">음식 월드컵</a><br>
-		<a href="/record">기록 보기</a>
-		<a href="/login/mypage">마이페이지</a>
-		<a href="/login/logout">로그아웃</a>
+		<a href="choicelist">강아지 월드컵</a>
+		<a href="choicelist2">음식 월드컵</a><br>
+		<a href="record">기록 보기</a>
+		<a href="login/mypage">마이페이지</a>
+		<a href="login/logout">로그아웃</a>
 	</div>
 	
 

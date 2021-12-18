@@ -150,9 +150,9 @@
 <body class ="Form">
 	<h1>음식 월드컵</h1>
 	<h2 id="te">16강 1 / 8</h2>
-	<img src="/recources/img/짜장면.jpg" id="1" width="300" height="300"
+	<img src="./img/짜장면.jpg" id="1" width="300" height="300"
 		onclick="changeabc(this)" />
-	<img src="/recources/img/돈까스.jpg" id="2" width="300" height="300" onclick="changecba(this)" />
+	<img src="./img/돈까스.jpg" id="2" width="300" height="300" onclick="changecba(this)" />
 	<br>
 	<p id="first" style="float:left; margin-left:130px;">짜장면</p><p id="second" style="float:right; margin-right:130px;">돈까스</p><br><br>
 	<form action="add" method="get">
